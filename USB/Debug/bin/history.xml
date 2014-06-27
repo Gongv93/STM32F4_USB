@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8.3 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=USB.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\USB -TC:\CooCox\CoIDE\configuration\ProgramData\USB/arm-gcc-link.ld -g">
+      <target file="USB.elf" lastModified="146dace3e9c">
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="146dace3977"/>
+         <source file="..\obj\main.o" lastModified="146dace39bc"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="146dace3b7b"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="146dace3c06"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="146dace3c8c"/>
+      </target>
+   </processor>
+</history>
